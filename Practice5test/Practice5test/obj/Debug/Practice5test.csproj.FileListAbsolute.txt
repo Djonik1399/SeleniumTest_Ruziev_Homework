@@ -1,0 +1,12 @@
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\bin\Debug\Practice5test.dll
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\bin\Debug\Practice5test.pdb
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\bin\Debug\nunit.framework.dll
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\bin\Debug\WebDriver.dll
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\bin\Debug\nunit.framework.xml
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\bin\Debug\WebDriver.xml
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\obj\Debug\Practice5test.csprojAssemblyReference.cache
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\obj\Debug\Practice5test.csproj.CoreCompileInputs.cache
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\obj\Debug\Practice5test.csproj.CopyComplete
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\obj\Debug\Practice5test.dll
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\obj\Debug\Practice5test.pdb
+C:\Users\Джон\RiderProjects\Practice5test\Practice5test\bin\Debug\chromedriver.exe

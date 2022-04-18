@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26c6db77_002D513a_002D4ab3_002Db916_002Daa02a9272f28/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FirstSeleniumTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EEB7251B-0999-4AF2-9234-2EB4FB2F79C3::.NETFramework,Version=v3.5::SeleniumTests.FirstSeleniumTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26d37374_002D18eb_002D4c13_002Da8db_002D1ddbfc806bcd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateName_Inputmail_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EEB7251B-0999-4AF2-9234-2EB4FB2F79C3::.NETFramework,Version=v3.5::SeleniumTests.FirstSeleniumTests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EEB7251B-0999-4AF2-9234-2EB4FB2F79C3::.NETFramework,Version=v3.5::SeleniumTests.FirstSeleniumTests.CreateName_SendEmail_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b9e118b6_002D02e2_002D4cf6_002D948e_002Dad4703ead73d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EEB7251B-0999-4AF2-9234-2EB4FB2F79C3::.NETFramework,Version=v3.5::SeleniumTests.FirstSeleniumTests.Test4&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=daf46684_002Db13c_002D46f7_002D9cab_002D91583578af30/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EEB7251B-0999-4AF2-9234-2EB4FB2F79C3::.NETFramework,Version=v3.5::SeleniumTests.FirstSeleniumTests.Test4&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
